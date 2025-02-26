@@ -1,4 +1,6 @@
-﻿namespace PokerLib.Extensions
+﻿// 参照元： https://baba-s.hatenablog.com/entry/2019/12/04/125000
+
+namespace PokerLib.Extensions
 {
     internal static class IListExtensions
     {
